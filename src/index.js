@@ -1,4 +1,5 @@
-import getWeather from './module'; 
+import './style.css';
+import getWeather from './module';  
 /* import getForecast from './module2'; */
 
 const searchButton = document.getElementById('searchButton'); 
